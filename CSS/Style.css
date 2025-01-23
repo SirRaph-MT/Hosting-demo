@@ -1,0 +1,266 @@
+
+body{
+	padding: 40px;
+}
+
+
+#first{
+	color:lightgreen;
+}
+
+.book{
+	background-image:url('../images/obi3.jpg');
+	color:white;
+	padding-left:40px;
+}
+.book a{
+	color:white;
+	text-decoration: none;
+	
+}
+
+#net{
+	margin-left: 800px;
+}
+
+#home{
+	color:lightgreen;
+}
+span{
+	margin-left: 150px;
+}
+
+#space{
+	margin-left: 200px;
+}
+
+
+.About{
+	color:black;
+	text-align: center;
+	text-decoration:underline;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    
+    padding: 20px;
+}
+
+.main-h {
+    flex: 1;
+    padding: 20px;
+}
+
+.text-left {
+    text-align: left;
+    line-height: 2em;
+}
+
+.text-left button{
+	background-color: lightblue;
+	padding:10px;
+}
+
+.text-right {
+    text-align: left;
+    line-height: 2em;
+}
+
+.image-center {
+    text-align: center;
+}
+
+.image-center img {
+    max-width: 100%;
+    height: auto;
+}
+
+#two{
+	color:white;
+	background-color: lightgreen;
+}
+
+.container-two{
+	background-color: lightgreen;
+	color:white;
+	display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+#service{
+	color:white;
+	text-align: center;
+	text-decoration:underline;
+	background-color: lightgreen;
+}
+
+.left{
+	 text-align: left;
+    line-height: 2em;
+    float:left;
+}
+
+.center{
+	text-align: left;
+    line-height: 2em;
+    float:center;
+}
+
+.right{
+	text-align: left;
+    line-height: 2em;
+    float:right;
+}
+
+
+.container-three{
+	background-color:white;
+	color:black;
+	display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.container-three span{
+	background-color:lightgreen;
+	padding: 10px; 
+}
+
+.container-four{
+	background-image:url('../images/obi4.jpg');
+	color:white;
+	height:600px;
+}
+
+.container-four p{
+	padding:20px;
+}
+
+.left-one span{
+	background-color:lightgreen;
+	padding: 10px;
+}
+
+#blog{
+	text-align: center;
+	text-decoration: underline;
+}
+
+.left-one{
+	background-color: white;
+	color:black;
+	width:30.3%;
+	padding: 20px;
+	box-sizing: border-box;
+	text-align: left;
+	display: inline-block;
+	margin:15px;
+
+}
+
+.center-one{
+	background-color: white;
+	color:black;
+	float:center;
+	width:33.3%;
+	padding: 10px;
+	box-sizing: border-box;
+	text-align: left;
+	
+}
+
+.right-one{
+	background-color: white;
+	color:black;
+	float:right;
+	width:33.3%;
+	padding: 10px;
+	box-sizing: border-box;
+	text-align: left;
+	
+}
+
+.roll{
+	width: 25%;
+	box-sizing: border-box;
+	float:left;
+	padding-bottom: 60px;
+}
+
+.dew{
+	text-align: center;
+	background-color:lightblue;
+	opacity: 1.0;
+	color:white;
+	padding: 80px;
+}
+
+.dew button{
+	padding: 10px;
+}
+
+
+#black{
+	background-color: black;
+	color:white;
+	padding: 10px;
+}
+
+#contact{
+	text-align: center;
+	text-decoration: underline;
+
+}
+
+#address{
+	line-height:1em;
+	float:left;
+	width:47%;
+}
+
+#address img{
+	width:200px;
+}
+
+#get{
+	line-height: 3em;
+	float:right;
+	width: 52%;
+}
+
+#get input{
+	padding: 8px;
+	width:60%;
+}
+
+#get textarea{
+	width: 50%;
+	padding: 25px;
+
+}
+
+#get label{
+	padding-left: 10px;
+}
+
+#last{
+	background-color: lightblue;
+	padding: 10px 40px;
+	color:white;
+	margin-left:400px;
+	
+}
+
+.dew{
+	line-height: 2em;
+}
+
+.icon{
+	color:lightgreen;
+	font-size: 25px;
+	padding-left: 20px
+}
